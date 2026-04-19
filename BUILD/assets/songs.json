@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pulse-drive",
+    "title": "Pulse Drive",
+    "artist": "Prototype",
+    "bpm": 128,
+    "audioPath": "./assets/audio/pulse-drive.wav",
+    "charts": {
+      "Easy": "./assets/charts/pulse-drive-easy.json",
+      "Normal": "./assets/charts/pulse-drive-normal.json",
+      "Hard": "./assets/charts/pulse-drive-hard.json"
+    }
+  }
+]
